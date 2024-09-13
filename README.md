@@ -13,5 +13,14 @@ A continuación se presenta una lista de los ejercicios incluidos en el proyecto
 ### Ejercicio 1: **City Weather App**
 App que permite consultar información del clima para una ciudad específica utilizando la API de OpenWeather.
 
+El usuario puede insertar una ciudad y ver algunos datos sobre dicha ciudad y el tiempo.
+
 ### Ejercicio 2: **Todo List App**
-App que permite gestionar una lista de tareas desde la terminal.
+App que permite gestionar una lista de tareas.
+
+El usuario puede insertar, eliminar tareas y ver la lista completa
+
+### Ejercicio 3: **Gestión de Cuenta Bancaria**
+App que permite gestionar una cuenta bancaria simple.
+
+El usuario puede ingresar dinero, retirar dinero, y mostrar el saldo actual de la cuenta.
