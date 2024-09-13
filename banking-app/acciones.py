@@ -46,19 +46,27 @@ def sacar(cantidad):
 
     global cantidad_total
 
-    if cantidad > 0:
-        if cantidad > cantidad_total:
-            confirmacion = input(
-                "¿Quieres sacar más cantidad de la que dispones? (s/n): "
-            )
-
-            if confirmacion == "s":
-                cantidad_total -= cantidad
-                print(f"La cantidad de {cantidad}€ ha sido sacada")
-            else:
-                print("Operación cancelada")
-    else:
+    if cantidad <= 0:
         print("La cantidad debe ser mayor que 0")
+        return
+
+    if cantidad > cantidad_total:
+        confirmacion = (
+            input("¿Quieres sacar más cantidad de la que dispones? (s/n): ")
+            .strip()
+            .lower()
+        )
+
+        if confirmacion == "s":
+            cantidad_total -= cantidad
+            print(f"La cantidad de {cantidad}€ ha sido sacada")
+        elif confirmacion == "n":
+            print("Operación cancelada")
+        else:
+            print("Confirmación no válida. Operación cancelada")
+    else:
+        cantidad_total -= cantidad
+        print(f"La cantidad de {cantidad}€ ha sido sacada")
 
 
 def mostrar_cuenta():
