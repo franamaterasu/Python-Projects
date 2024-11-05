@@ -24,3 +24,8 @@ El usuario puede insertar, eliminar tareas y ver la lista completa
 App que permite gestionar una cuenta bancaria simple.
 
 El usuario puede ingresar dinero, retirar dinero, y mostrar el saldo actual de la cuenta.
+
+### Ejercicio 4: **Gestión Ecommerce**
+App que permite gestionar los productos y el stock de un ecommerce.
+
+El usuario puede agregar productos, modificar su stock o eliminarlos.
