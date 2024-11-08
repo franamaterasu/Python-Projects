@@ -16,25 +16,31 @@ App que permite jugar al usuario al juego de adivinar el número.
 
 El usuario puede insertar un número hasta 3 veces e intentar adivinar el número secreto.
 
-### Ejercicio 2: **City Weather App**
+### Ejercicio 2: **Calculadora básica**
+
+App que permite realizar operaciones matemáticas básicas.
+
+El usuario puede seleccionar la operación matemática que prefiera y dos números, seguidamente la calculadora devolverá el resultado.
+
+### Ejercicio 3: **City Weather App**
 
 App que permite consultar información del clima para una ciudad específica utilizando la API de OpenWeather.
 
 El usuario puede insertar una ciudad y ver algunos datos sobre dicha ciudad y el tiempo.
 
-### Ejercicio 3: **Todo List App**
+### Ejercicio 4: **Todo List App**
 
 App que permite gestionar una lista de tareas.
 
 El usuario puede insertar, eliminar tareas y ver la lista completa
 
-### Ejercicio 4: **Gestión de Cuenta Bancaria**
+### Ejercicio 5: **Gestión de Cuenta Bancaria**
 
 App que permite gestionar una cuenta bancaria simple.
 
 El usuario puede ingresar dinero, retirar dinero, y mostrar el saldo actual de la cuenta.
 
-### Ejercicio 5: **Gestión Ecommerce**
+### Ejercicio 6: **Gestión Ecommerce**
 
 App que permite gestionar los productos y el stock de un ecommerce.
 
