@@ -10,22 +10,32 @@ Este proyecto incluye una colección de ejercicios que abarcan una variedad de t
 
 A continuación se presenta una lista de los ejercicios incluidos en el proyecto:
 
-### Ejercicio 1: **City Weather App**
+### Ejercicio 1: **Adivina el número**
+
+App que permite jugar al usuario al juego de adivinar el número.
+
+El usuario puede insertar un número hasta 3 veces e intentar adivinar el número secreto.
+
+### Ejercicio 2: **City Weather App**
+
 App que permite consultar información del clima para una ciudad específica utilizando la API de OpenWeather.
 
 El usuario puede insertar una ciudad y ver algunos datos sobre dicha ciudad y el tiempo.
 
-### Ejercicio 2: **Todo List App**
+### Ejercicio 3: **Todo List App**
+
 App que permite gestionar una lista de tareas.
 
 El usuario puede insertar, eliminar tareas y ver la lista completa
 
-### Ejercicio 3: **Gestión de Cuenta Bancaria**
+### Ejercicio 4: **Gestión de Cuenta Bancaria**
+
 App que permite gestionar una cuenta bancaria simple.
 
 El usuario puede ingresar dinero, retirar dinero, y mostrar el saldo actual de la cuenta.
 
-### Ejercicio 4: **Gestión Ecommerce**
+### Ejercicio 5: **Gestión Ecommerce**
+
 App que permite gestionar los productos y el stock de un ecommerce.
 
 El usuario puede agregar productos, modificar su stock o eliminarlos.
