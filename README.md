@@ -45,3 +45,7 @@ El usuario puede ingresar dinero, retirar dinero, y mostrar el saldo actual de l
 App que permite gestionar los productos y el stock de un ecommerce.
 
 El usuario puede agregar productos, modificar su stock o eliminarlos.
+
+### Ejercicio 7: **Web Scraping de Jugadores de Fútbol**
+
+App que obtiene datos de jugadores de futbol mendiante web scraping y guarda dichos datos en un fichero CSV externo para su posterior análisis.
