@@ -9,7 +9,7 @@ Ofrece un menú interactivo donde los usuarios pueden agregar, eliminar y mostra
 Este proyecto incluye tres archivos principales:
 
 - **`main.py`**: Punto de entrada del programa. Ejecuta el menú interactivo.
-- **`tareas.py`**: Contiene las funciones para agregar, eliminar y mostrar las tareas.
+- **`creador_de_tareas.py`**: Contiene las funciones para agregar, eliminar y mostrar las tareas.
 - **`menu.py`**: Muestra un menú que permite al usuario interactuar con las tareas.
 
 ### Funcionalidades
