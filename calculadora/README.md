@@ -6,6 +6,6 @@ El usuario puede seleccionar la operación matemática que prefiera y dos númer
 
 ## Estructura del Proyecto
 
-- `operaciones.py`: Dispone las funciones de las operaciones matemáticas.
+- `calculadora.py`: Dispone las funciones de las operaciones matemáticas.
 - `menu.py`: Muestra un menú que permite al usuario interactuar con las tareas.
 - `main.py`: Punto de entrada para ejecutar el menú interactivo.
